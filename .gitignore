@@ -1,0 +1,6 @@
+*.vcproj.*.user
+*.ncb
+*.aps
+*.suo
+bin/*
+obj/*
